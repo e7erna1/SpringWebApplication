@@ -2,12 +2,12 @@ spring:
   datasource1:
     url: jdbc:sqlserver://localhost;databaseName=application
     username: SA
-    password: PointBlank10
+    password: password
     driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
   datasource2:
     url: jdbc:sqlserver://localhost;databaseName=users
     username: SA
-    password: PointBlank10
+    password: password
     driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
   jpa:
     show_sql:
