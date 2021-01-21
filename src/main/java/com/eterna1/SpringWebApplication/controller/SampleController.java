@@ -1,6 +1,6 @@
 package com.eterna1.SpringWebApplication.controller;
 
-import com.eterna1.SpringWebApplication.domain.application.SampleData;
+import com.eterna1.SpringWebApplication.domain.entity.SampleData;
 import com.eterna1.SpringWebApplication.repository.application.SampleRepository;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

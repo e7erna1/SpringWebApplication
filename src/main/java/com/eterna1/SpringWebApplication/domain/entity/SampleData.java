@@ -1,4 +1,4 @@
-package com.eterna1.SpringWebApplication.domain.application;
+package com.eterna1.SpringWebApplication.domain.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
